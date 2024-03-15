@@ -43,7 +43,7 @@
                 </h2>
                 <!-- Plaats je code / uitwerking hieronder -->
                 <p>We zitten nu <?php echo time(); ?> seconden na middernacht 1 januari 1970.</p>
-                
+                <php include funtions.php; ?>
             </section>
         </main>
     </body>
